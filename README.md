@@ -1,7 +1,7 @@
 Attention House-GAN --- Refer https://github.com/ennauata/housegan
 ======
 
-Code and instructions for our paper:
+Code and instructions of the paper:
 [House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation](https://arxiv.org/pdf/2003.06988), ECCV 2020.
 
 Data
