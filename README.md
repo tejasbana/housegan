@@ -1,4 +1,4 @@
-House-GAN
+Attention House-GAN --- Refer https://github.com/ennauata/housegan
 ======
 
 Code and instructions for our paper:
